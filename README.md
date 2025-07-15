@@ -17,7 +17,7 @@ It was created as part of the **Responsive Web Design Certification** from [free
 
 ## 🌐 Live Preview
 
-(You can add a GitHub Pages link here after deployment)
+[View Live City Skyline](https://sampreeth982.github.io/CITY-SKYLINE/)
 
 ## 📚 What I Learned
 
